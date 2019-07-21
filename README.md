@@ -22,6 +22,7 @@
 - https://cloud.google.com/appengine/docs/
   + https://cloud.google.com/appengine/docs/deprecations/
 
+- https://github.com/gregsramblings/google-cloud-4-words
 
 
 ## Training Resources
