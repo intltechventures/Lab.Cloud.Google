@@ -22,6 +22,8 @@
 - https://cloud.google.com/appengine/docs/
   + https://cloud.google.com/appengine/docs/deprecations/
 
+- https://cloud.google.com/security/infrastructure/design/
+
 - https://github.com/gregsramblings/google-cloud-4-words
 
 
