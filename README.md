@@ -23,6 +23,7 @@
   + https://cloud.google.com/appengine/docs/deprecations/
 
 - https://cloud.google.com/security/infrastructure/design/
+  + "Google invests heavily in securing its infrastructure with many hundreds of engineers dedicated to security and privacy distributed across all of Google, including many who are recognized industry authorities."
 
 - https://github.com/gregsramblings/google-cloud-4-words
 
