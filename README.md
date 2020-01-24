@@ -24,10 +24,14 @@
 
 - https://cloud.google.com/security/infrastructure/design/
   + "Google invests heavily in securing its infrastructure with many hundreds of engineers dedicated to security and privacy distributed across all of Google, including many who are recognized industry authorities."
-  + BeyondCorp
-    * https://cloud.google.com/beyondcorp/
-    * https://cloud.google.com/blog/products/identity-security/beyondprod-whitepaper-discusses-cloud-native-security-at-google
-    * https://security.googleblog.com/2019/12/protecting-programmatic-access-to-user.html
+
+- https://static.googleusercontent.com/media/1.9.22.221/en//enterprise/pdf/whygoogle/google-common-security-whitepaper.pdf
+  + "Google employs a full-time Information Security Team that is composed of over 250 experts in information, application, and network security"
+
+-  BeyondCorp
+  + https://cloud.google.com/beyondcorp/
+  + https://cloud.google.com/blog/products/identity-security/beyondprod-whitepaper-discusses-cloud-native-security-at-google
+  + https://security.googleblog.com/2019/12/protecting-programmatic-access-to-user.html
 
   
 - https://github.com/gregsramblings/google-cloud-4-words
