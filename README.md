@@ -24,7 +24,12 @@
 
 - https://cloud.google.com/security/infrastructure/design/
   + "Google invests heavily in securing its infrastructure with many hundreds of engineers dedicated to security and privacy distributed across all of Google, including many who are recognized industry authorities."
+  + BeyondCorp
+    * https://cloud.google.com/beyondcorp/
+    * https://cloud.google.com/blog/products/identity-security/beyondprod-whitepaper-discusses-cloud-native-security-at-google
+    * https://security.googleblog.com/2019/12/protecting-programmatic-access-to-user.html
 
+  
 - https://github.com/gregsramblings/google-cloud-4-words
 
 
@@ -46,7 +51,6 @@
 
 
 
-
 ## Webinar and Podcast Resources
 - https://gcppodcast.com/
 - https://cloudonair.withgoogle.com/
@@ -64,6 +68,7 @@
 
 ## Interesting Articles
 - https://cloud.google.com/appengine/articles/
+- https://security.googleblog.com
 
 - 2019 
 
